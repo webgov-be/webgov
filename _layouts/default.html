@@ -63,24 +63,34 @@ ga('send', 'pageview');
 	 
         <!-- Begin Menu -->
 
-            <ul class="navbar-nav ml-auto">
-
-                {% if page.url == "/" %}
+            <ul class="navbar-nav ml-auto">		    
+		    
+		{% if page.url == "/about.html" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
-                </li>
-
-                <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
-
+		    
+		{% if page.url == "/publications.html" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Contact</a>
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/publications">Publications</a>
                 </li>
-
+		    
+		{% if page.url == "/contact.html" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
+                </li>
+		    
+		    
+		    
  <!--               <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a>
                 </li>
