@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
+name: "WebGov"
 title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Web elements, governance, .."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
@@ -13,18 +13,24 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
+ Eveline:
+    name: Eveline 
+    display_name: Eveline
+    gravatar: fdb570aed748bfa98f2191cd28f9718e
+    email: eveline.vlassenroot@ugent.be
+    web: https://biblio.ugent.be/person/000110474714
+    twitter: https://twitter.com/evelinevlas
+    description: "Onderzoeker bij imec-mict-UGent."
+  Mathias:
+    name: Mathias 
+    display_name: Mathias
+    email: mathias.vancompernolle@ugent.be
+    web: https://biblio.ugent.be/person/002004496411
+    twitter: https://twitter.com/mvcomper
+    description: "Onderzoeker bij imec-mict-UGent."
+  gastauteur:
+    name: Gastauteur
+    display_name: Gastauteur
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
@@ -48,7 +54,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 12
 paginate_path: /page:num/
     
 # Other
