@@ -1,7 +1,7 @@
 # Site
 name: "WebGov"
 title: "WebGov"
-description: "Web elements, governance, .."
+description: "Site on web elements and governance by MVC & EVL"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /webgov-be.github.io
