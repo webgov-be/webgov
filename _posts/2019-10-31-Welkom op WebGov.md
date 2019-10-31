@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hallo"
+title:  "Welkom op WebGov"
 author: Mathias
 image: assets/images/1.jpg
 ---
