@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Self-Sovereign identity: not only drivers"
+title:  "Een kanttekening bij "self-sovereign identity""
 author: Mathias
 image: assets/images/2.jpg
 ---
