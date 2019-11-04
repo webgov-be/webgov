@@ -3,7 +3,7 @@ name: "WebGov"
 title: "WebGov"
 description: "Blog on web elements and governance"
 logo: 'assets/images/enkellogo.png'
-favicon: 'assets/images/enkellogo.png'
+favicon: 'assets/images/enkellogo_small.png'
 footerlogo: 'assets/images/enkellogo.png'
 baseurl: "/"
 google_analytics: 'UA-46278016-1'
