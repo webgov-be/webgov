@@ -275,7 +275,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand {
-    font-weight: 500;
+    font-weight: 2000;
 }
 
 .mediumnavigation .dropdown-menu {
@@ -296,7 +296,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 100px;
     margin-right: 5px;
 }
 
