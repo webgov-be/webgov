@@ -2,7 +2,7 @@
 name: "WebGov"
 title: "WebGov"
 description: "Blog on web elements and governance"
-logo: 'assets/images/logowebgov.png'
+logo: 
 favicon: 'assets/images/favicon.png'
 footerlogo: 'assets/images/favicon.png'
 baseurl: 
