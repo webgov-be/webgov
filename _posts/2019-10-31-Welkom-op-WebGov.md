@@ -4,4 +4,11 @@ title:  "Welkom op WebGov"
 author: Mathias
 image: assets/images/1.jpg
 ---
-Hallo! Wij zijn twee onderzoekers van imec-mict-UGent en doen onderzoek naar de raakpunten tussen data en maatschappij. In deze blog willen we af toe een aantal openliggende vraagstukken benoemen die we zien tijdens ons praktijkwerk.
+Welkom op onze blog WebGov. 
+Wij zijn twee onderzoekers van imec-mict-UGent. Deze interdisciplinaire onderzoeksgroep maakt deel uit van Communicatiewetenschappen en Industrial Systems Engineering and Product Design aan de Universiteit Gent. 
+Daarnaast is de onderzoeksgroep ook deel van het Vlaams strategisch onderzoekscentrum Imec.
+
+Vanuit ons werk in verschillende onderzoeksprojecten komen we in aanraking met verschillende uitdagingen op het raakpunt tussen het web en de overheid.
+In deze blog willen we een aantal ideeën, commentaren en openliggende vraagstukken rond dit thema gaan benoemen. 
+
+
