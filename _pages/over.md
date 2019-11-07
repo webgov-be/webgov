@@ -7,9 +7,9 @@ permalink: /over
 In een digitaliserende samenleving die steeds in ontwikkeling is neemt de invloed van webtechnologieën op overheidsorganisaties in hoog tempo toe. Hier brengen we onze ideeën, commentaren en reflecties/visies uit onze onderzoeksprojecten onder.
 We zijn twee wetenschappers van de imec interdisciplinaire onderzoeksgroep voor media, innovatie en communicatietechnologieën (mict) van de Universiteit Gent (België).\
 \
-Korte intro over onze onderzoeksprojecten:\
+##Korte intro over onze onderzoeksprojecten:\
 \
-Smart Flanders:\
+#Smart Flanders:\
 Een ondersteuningsprogramma van de Vlaamse Overheid voor de 13 centrumsteden.
 Smart Flanders doet dit door te focussen op real-time open data en gedeelde referentiemodellen, en is erop gericht samenwerking tussen steden en actoren uit de quadruple helix te stimuleren. 
 De gezamenlijke basisprincipes werden gevat in een stedelijk Open Data Charter dat in 2018 door de 13 centrumsteden aangenomen werd. 
@@ -19,9 +19,9 @@ Binnen het programma worden een aantal pilootprojecten voorzien die vertrekken v
 Door deze aanpak te hanteren en "te leren door te doen" richt Smart Flanders zich erop zo goed mogelijk data te ontsluiten, met het oog op een maximaal hergebruik als basis voor slimmere diensten en toepassingen. 
 De datapiloten die in het kader van het project uitgevoerd worden zijn terug te vinden op deze <p>website <a href="https://smart.flanders.be/piloten/</a></p>.
 
-LBLOD
-OSLO
-EBSI 
+#LBLOD
+#OSLO
+#EBSI 
 De European Blockchain Services Infrastructure (EBSI) wil een "standaard" digitale infrastructuur worden ter ondersteuning van de lancering en werking van grensoverschrijdende openbare diensten in de hele EU met behulp van blockchaintechnologie, 
 met als doel zich te vestigen in vrijwel elk openbaar domein dat kan profiteren van deze technologie. 
 EBSI spitst zich toe op specifieke use cases waarin blockchaintechnologie grensoverschrijdende digitale overheidsdiensten kan verbeteren.
