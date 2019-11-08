@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Self-Sovereign identity: some gentle observations"
+title:  "Gentle observations on Self-Sovereign identity"
 author: Mathias
 image: assets/images/2.jpg
 ---
