@@ -17,13 +17,13 @@ The aim of this workshop was to get a better insight on the social and economic 
 
 ### Setup
 The workshop existed of four exercises that were completed by the participants within each use case group.
-Listing all the different stakeholders and adopting a stakeholder per participant
-Defining positive and negative aspects or drivers or barriers for the stakeholder you adopted
-Further specification of these stakeholders in terms of value and incentives
-for the drivers/benefits 
-e.g. Savings (Which benefits are savings?), Efficiency (Which benefits are efficiency?) or New possibilities (Which valuable possibilities does the new solution bring?) 
+1. Listing all the different stakeholders and adopting a stakeholder per participant
+2. Defining positive and negative aspects or drivers or barriers for the stakeholder you adopted
+3. Further specification of these stakeholders in terms of value and incentives
+for the drivers/benefits
+e.g. Savings (Which benefits are savings?), Efficiency (Which benefits are efficiency?) or New possibilities (Which valuable possibilities does the new solution bring?). 
 for the barriers/disadvantages e.g. Expenses (Does the new situation lead to any extra expenses?)
-Deciding which aspects are in and out control of your stakeholder by doing a SWOT-analysis
+4. Deciding which aspects are in and out control of your stakeholder by doing a SWOT-analysis.
 
 ### Takeaways 
 [nog aan te vullen]
