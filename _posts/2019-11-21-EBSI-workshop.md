@@ -2,7 +2,7 @@
 layout: post
 title:  "Takeaways from the EBSI workshop in Málaga"
 author: Eveline
-image: http://webgov.be/assets/images/ebsiworkshop.jpg
+image: https://webgov.be/assets/images/ebsiworkshop.jpg
 ---
 
 #### Context
