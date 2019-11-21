@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Takeaways from the EBSI workshop in Málaga"
+author: Eveline
+image: assets/images/ebsiworkshop.jpg
+---
+
 Takeaways EBSI workshop
 
 Context
