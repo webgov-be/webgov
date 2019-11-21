@@ -2,7 +2,7 @@
 layout: post
 title:  "Research project: EBSI"
 author: Eveline
-image: https://webgov.be/assets/images/ebsiworkshop.jpg
+image: https://webgov.be/assets/images/ebp.jpg
 ---
 
 The European Blockchain Services Infrastructure (EBSI) aims to become a "standard" digital infrastructure to support the launch and operation of cross-border public services across the EU using blockchain technology, 
