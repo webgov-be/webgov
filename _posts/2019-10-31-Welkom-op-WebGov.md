@@ -4,11 +4,9 @@ title:  "Welkom op WebGov"
 author: Mathias
 image: assets/images/1.jpg
 ---
-Welkom op onze blog WebGov. 
-Wij zijn twee onderzoekers van imec-mict-UGent. Deze interdisciplinaire onderzoeksgroep maakt deel uit van Communicatiewetenschappen en Industrial Systems Engineering and Product Design aan de Universiteit Gent. 
-Daarnaast is de onderzoeksgroep ook deel van het Vlaams strategisch onderzoekscentrum Imec.
+Welcome to our blog WebGov. 
+We are two researchers of imec-mict-UGent. This interdisciplinary research group is part of Communication Sciences and Industrial Systems Engineering and Product Design at Ghent University. 
+The research group is also part of the Flemish strategic research centre Imec.
 
-Vanuit ons werk in verschillende onderzoeksprojecten komen we in aanraking met verschillende uitdagingen op het kruispunt van het web en de overheid.
-In deze blog willen we een aantal ideeën, commentaren en openliggende vraagstukken rond dit thema gaan benoemen. 
-
-
+From our work in various research projects, we come into contact with different challenges at the crossroads of the web and the government.
+In this blog, we want to mention a number of ideas, comments and open issues on this theme. 
