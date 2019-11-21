@@ -2,7 +2,7 @@
 layout: post
 title:  "Closing event Smart Flanders"
 author: Mathias
-image: assets/images/4.jpg
+image: assets/images/smartflanders.jpg
 ---
 
 
